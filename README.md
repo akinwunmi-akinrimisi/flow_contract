@@ -52,10 +52,6 @@ The contract maintains a public array of players, which can be accessed to view 
 
 We welcome contributions to enhance the functionality of the FootballClub contract. Please open an issue or submit a pull request if you have any suggestions, bug reports, or improvements.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 For any inquiries or support, please reach out to the repository maintainers.
